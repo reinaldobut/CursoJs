@@ -11,7 +11,7 @@ console.log(listaDestinos);
 
 if(idadeComprador >=18){
 
-    console.log("Comprador maior de idade");
+    console.log("Comprador maior de idade. Teste");
     listaDestinos.splice(1,1);
 } else{
     console.log("Não é maior de idade e não posso vender");        
